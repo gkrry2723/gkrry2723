@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 ## 🐈 GitHub Status 🐈 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrry2723)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrry2723&hide=jupyter%20notebook,cmake)](https://github.com/anuraghazra/github-readme-stats)
  [![HyunJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkrry2723)](https://github.com/anuraghazra/github-readme-stats)
 
   
