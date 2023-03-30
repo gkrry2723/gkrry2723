@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 ## 🐈 GitHub Status 🐈 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrry2723&hide=jupyter%20notebook,cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrry2723&layout=compact&hide=jupyter%20notebook,cmake)](https://github.com/anuraghazra/github-readme-stats)
  [![HyunJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkrry2723)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gkrry2723)](https://solved.ac/gkrry2723)
   
